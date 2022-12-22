@@ -12,12 +12,13 @@
 # 📗 Table of Contents
 
 - [📗 Table of Contents](#-table-of-contents)
-- [📖 Enumerable](#-enumerable)
-  - [🛠 Built With ](#-built-with-)
-    - [Tech Stack ](#tech-stack-)
+- [📖 Create Your Own Enumerable](#-create-your-own-enumerable)
+  - [🛠 Built With Ruby enumerable](#-built-with-ruby-enumerable)
+    - [Tech Stack Ruby](#tech-stack-ruby)
     - [Key Features ](#key-features-)
   - [🚀 Live Demo ](#-live-demo-)
   - [💻 Getting Started ](#-getting-started-)
+  - [Usage](#usage)
     - [Prerequisites](#prerequisites)
     - [Setup](#setup)
   - [👥 Author ](#-author-)
@@ -31,16 +32,16 @@
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 Enumerable<a name="about-project"></a>
+# 📖 Create Your Own Enumerable<a name="about-project"></a>
 
-**Enumerable**In this project, a program was written that takes advantage of the built in ruby enumerable module.
+**Create Your Own Enumerable**In this project, a program was written that takes advantage of the built in ruby enumerable module.
 
-## 🛠 Built With <a name="built-with"></a>
+## 🛠 Built With <a name="built-with">Ruby enumerable</a>
 
-### Tech Stack <a name="tech-stack"></a>
+### Tech Stack <a name="tech-stack">Ruby</a>
 
 <details>
-<summary>Enumerable</summary>
+<summary>Create Your Own Enumerable</summary>
   <ul>
     <li><a href="https://ruby-doc.org/core-3.0.0/Enumerable.html">Enumerable</a></li>
   </ul>
@@ -67,6 +68,7 @@
 
 > This repository includes files with ruby syntax:
 
+## Usage
 - Use [myenumerable.rb](./myenumerable.rb) to use or emulate inbuilt ruby methods.
 **Important note: this file syntax can be used to emulate inbuilt ruby methods**
 
